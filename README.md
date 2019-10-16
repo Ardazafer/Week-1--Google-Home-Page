@@ -24,6 +24,7 @@ http://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png
 
 initial code:
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,3 +37,6 @@ initial code:
   
 </body>
 </html>
+```
+
+  <meta charset="UTF-8">
