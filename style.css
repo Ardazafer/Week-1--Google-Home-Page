@@ -150,9 +150,11 @@ We set the border radius to half of the width and height of the image size in or
   bottom: 0;
 }
 
-.footer span {
-  margin: 0 10px 0 10px;
+#footer-text {
+  text-decoration: none;
+  color: #6f6f6f;
   cursor: pointer;
+  margin: 0 10px 0 10px;
 }
 .footer span:hover {
   text-decoration: underline;
